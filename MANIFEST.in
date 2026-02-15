@@ -1,0 +1,13 @@
+include README.md
+include requirements.txt
+include LICENSE
+include *.py
+recursive-include cli *.py
+recursive-include core *.py
+recursive-include example *.py
+recursive-include workspace *.yaml *.yml *.json *.txt
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .git*
+global-exclude venv/
+global-exclude .env

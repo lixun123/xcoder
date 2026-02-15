@@ -16,7 +16,7 @@ XCoder is a powerful command-line interface (CLI) tool that provides intelligent
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/xcoder.git
+git clone https://github.com/lixun123/xcoder.git
 cd xcoder
 ```
 
@@ -195,7 +195,7 @@ xcoder/
 ### Installing for Development
 
 ```bash
-git clone https://github.com/your-username/xcoder.git
+git clone https://github.com/lixun123/xcoder.git
 cd xcoder
 pip install -e .
 ```
@@ -310,9 +310,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## Community
 
-- 🐛 [Report Issues](https://github.com/your-username/xcoder/issues)
-- 💡 [Feature Requests](https://github.com/your-username/xcoder/issues)
-- 📖 [Documentation](https://github.com/your-username/xcoder/wiki)
+- 🐛 [Report Issues](https://github.com/lixun123/xcoder/issues)
+- 💡 [Feature Requests](https://github.com/lixun123/xcoder/issues)
+- 📖 [Documentation](https://github.com/lixun123/xcoder/wiki)
 
 ## Code of Conduct
 
